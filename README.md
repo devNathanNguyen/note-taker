@@ -1,4 +1,5 @@
 # 11 Express.js: Note Taker
+![note-taker](https://user-images.githubusercontent.com/113803421/227749646-0d3119a3-99e2-4327-bece-fbba9c1a2ac7.png)
 
 ## Your Task
 
